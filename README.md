@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=200&section=header&text=Hi%20there,%20I'm%20Anisha!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Enthusiast%20%7C%20Full%20Stack%20Dev%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=200&section=header&text=Hi%20there,%20I'm%20Anisha!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+intelligent+solutions+with+ML+🤖;Crafting+beautiful+UIs+with+React+✨;Solving+150%2B+DSA+problems+%26+counting+🔥;AIML+student+%40+CVR+Global+University+🎓" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=Building+intelligent+solutions+with+ML+%F0%9F%A4%96;Crafting+beautiful+UIs+with+React+%E2%9C%A8;Solving+150%2B+DSA+problems+%26+counting+%F0%9F%94%A5;AIML+student+%40+CVR+Global+University+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
@@ -19,35 +17,37 @@
 
 ---
 
-<!-- About Me Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🙋‍♀️ About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+<table>
+  <tr>
+    <td>🎓</td><td><strong>Degree</strong></td><td>B.Tech in CSE (AIML) — C.V. Raman Global University</td>
+  </tr>
+  <tr>
+    <td>⭐</td><td><strong>CGPA</strong></td><td>9.26 / 10.0 (3rd Semester)</td>
+  </tr>
+  <tr>
+    <td>📍</td><td><strong>Location</strong></td><td>Bhubaneswar, Odisha, India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td>💡</td><td><strong>Interests</strong></td><td>Machine Learning · Competitive Programming · Web Development</td>
+  </tr>
+  <tr>
+    <td>🔭</td><td><strong>Currently</strong></td><td>Building ML projects & sharpening DSA skills</td>
+  </tr>
+  <tr>
+    <td>🎤</td><td><strong>Beyond Code</strong></td><td>Debating · Hackathons · Public Speaking</td>
+  </tr>
+  <tr>
+    <td>📫</td><td><strong>Reach Me</strong></td><td>anisha18112006@gmail.com</td>
+  </tr>
+</table>
 
-```python
-class Anisha:
-    def __init__(self):
-        self.name        = "Anisha"
-        self.role        = "AI/ML Student & Full Stack Developer"
-        self.university  = "C.V. Raman Global University, Bhubaneswar"
-        self.cgpa        = "9.26 / 10.0 (3rd Sem)"
-        self.location    = "Bhubaneswar, Odisha, India 🇮🇳"
-        self.languages   = ["Python", "Java", "JavaScript", "C"]
-        self.interests   = ["Machine Learning", "Competitive Programming", "Web Dev"]
-        self.hobbies     = ["Debating 🎤", "Hackathons 💡", "Building cool stuff 🔧"]
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
-
-me = Anisha()
-me.say_hi()
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+> 💬 *"Thanks for stopping by! Let's build something amazing together 🚀"*
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -113,14 +113,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anisha-1811&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
 ## ⚡ Competitive Programming
 
 <div align="center">
@@ -182,12 +174,8 @@ me.say_hi()
 
 <br/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anisha-1811/anisha-1811/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anisha-1811/anisha-1811/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anisha-1811/anisha-1811/output/github-snake.svg" />
-</picture>
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anisha-1811&theme=tokyo-night&hide_border=true&area=true&color=A855F7&line=6C63FF&point=EC4899" />
 
 </div>
 
