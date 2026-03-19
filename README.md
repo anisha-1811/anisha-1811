@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=anisha18112006&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=anisha-1811&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/anisha18112006?label=Followers&style=flat-square&color=6C63FF" alt="Followers" />
+<img src="https://img.shields.io/github/followers/anisha-1811?label=Followers&style=flat-square&color=6C63FF" alt="Followers" />
 
 </div>
 
@@ -104,10 +104,10 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anisha18112006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anisha18112006&theme=tokyonight&hide_border=true&stroke=A855F7&ring=6C63FF&fire=EC4899&currStreakLabel=A855F7&background=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anisha-1811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anisha-1811&theme=tokyonight&hide_border=true&stroke=A855F7&ring=6C63FF&fire=EC4899&currStreakLabel=A855F7&background=0d1117" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisha18112006&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0d1117" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisha-1811&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
@@ -116,7 +116,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anisha18112006&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=anisha-1811&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -126,7 +126,7 @@ me.say_hi()
 <div align="center">
 
 <!-- LeetCode Stats -->
-<img src="https://leetcard.jacoblin.cool/anisha18112006?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/Anisha-1811?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
 
 </div>
 
@@ -171,9 +171,9 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anisha18112006)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anisha18112006)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anisha18112006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisha-1bb83731a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anisha-1811)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Anisha-1811)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anisha18112006@gmail.com)
 
 <br/>
@@ -184,9 +184,9 @@ me.say_hi()
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anisha18112006/anisha18112006/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anisha18112006/anisha18112006/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anisha18112006/anisha18112006/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anisha-1811/anisha-1811/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anisha-1811/anisha-1811/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anisha-1811/anisha-1811/output/github-snake.svg" />
 </picture>
 
 </div>
