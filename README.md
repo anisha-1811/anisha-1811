@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=200&section=header&text=Hi%20there,%20I'm%20Anisha!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=Building+intelligent+solutions+with+ML+%F0%9F%A4%96;Crafting+beautiful+UIs+with+React+%E2%9C%A8;Solving+150%2B+DSA+problems+%26+counting+%F0%9F%94%A5;AIML+student+%40+CVR+Global+University+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI-powered+full-stack+apps+%F0%9F%A4%96;Gemini+%7C+React+%7C+Node.js+%7C+MySQL+%E2%9C%A8;Solving+150%2B+DSA+problems+%26+counting+%F0%9F%94%A5;AIML+student+%40+CVR+Global+University+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
@@ -30,10 +30,10 @@
     <td>📍</td><td><strong>Location</strong></td><td>Bhubaneswar, Odisha, India 🇮🇳</td>
   </tr>
   <tr>
-    <td>💡</td><td><strong>Interests</strong></td><td>Machine Learning · Competitive Programming · Web Development</td>
+    <td>💡</td><td><strong>Interests</strong></td><td>Machine Learning · Full Stack Dev · Competitive Programming</td>
   </tr>
   <tr>
-    <td>🔭</td><td><strong>Currently</strong></td><td>Building ML projects & sharpening DSA skills</td>
+    <td>🔭</td><td><strong>Currently</strong></td><td>Building AI-powered web apps with Gemini + React + Node.js</td>
   </tr>
   <tr>
     <td>🎤</td><td><strong>Beyond Code</strong></td><td>Debating · Hackathons · Public Speaking</td>
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-### 🧠 AI / Machine Learning
+### 🤖 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,6 +59,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -66,6 +67,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -73,10 +75,13 @@
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ### 💻 Other Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -90,11 +95,44 @@
 
 <div align="center">
 
-| 🏦 Loan Approval Prediction | 📊 Student Performance Dashboard | 🧩 DSA Tracker |
+### 🌟 Flagship
+
+| 💼 Career Portal — AI Job Application Platform |
+|:---:|
+| **Tech:** React 19 · Node.js · Express 5 · MySQL · Firebase · Google Gemini 2.0 · Tailwind CSS |
+| Full-stack job portal with a **5-step application form**, application status tracking, and a complete suite of **AI-powered career tools** — Resume Generator, ATS Score Checker, Job Matching, Cover Letter Generator, Skill Gap Analyzer & Mock Interview Generator |
+| 🔗 [Live Demo](https://job-application-portal-alpha.vercel.app) &nbsp;·&nbsp; [Frontend Repo](https://github.com/anisha-1811/Job-Application-Portal) &nbsp;·&nbsp; [Backend Repo](https://github.com/anisha-1811/job-portal-backend) |
+| 📅 2025 – 2026 |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔬 ML / Data Science
+
+| 🏦 Loan Approval Prediction | 📊 Student Performance Dashboard |
+|:---:|:---:|
+| **Tech:** Python · Scikit-learn · FastAPI · JS | **Tech:** Python · Streamlit · FastAPI · EDA |
+| Classification model with **87% accuracy** using Random Forest & Logistic Regression | Interactive dashboard to visualize student academic trends with deep EDA insights |
+| [Repo](https://github.com/anisha-1811/Loan_Approval_Prediction) | [Repo](https://github.com/anisha-1811/STUDENT-PERFORMANCE-DASHBOARD) |
+| 📅 Feb 2026 | 📅 Jan – Feb 2026 |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Utilities
+
+| 🧩 DSA Tracker | 📄 PDF Merger | 🔍 Deep Packet Inspection |
 |:---:|:---:|:---:|
-| **Tech:** Python · Scikit-learn · FastAPI · JS | **Tech:** Python · Streamlit · FastAPI · EDA | **Tech:** HTML5 · CSS3 · JavaScript |
-| Built a classification model with **87% accuracy** using Random Forest & Logistic Regression | Interactive dashboard to visualize student academic trends with deep EDA insights | Responsive web app to log and track daily DSA practice progress |
-| 📅 Feb 2026 | 📅 Jan – Feb 2026 | 📅 Dec 2025 – Jan 2026 |
+| **Tech:** HTML5 · CSS3 · JavaScript | **Tech:** HTML5 · JavaScript | **Tech:** Python |
+| Responsive web app to log and track daily DSA practice progress | Browser-based tool to merge multiple PDF files client-side | Network traffic analysis tool using DPI techniques |
+| [Repo](https://github.com/anisha-1811/DSA-TRACKER) | [Repo](https://github.com/anisha-1811/PDF-MERGER) | [Repo](https://github.com/anisha-1811/DEEP-PACKET-INSPECTION) |
+| 📅 Dec 2025 – Jan 2026 | 📅 2025 | 📅 2025 |
 
 </div>
 
