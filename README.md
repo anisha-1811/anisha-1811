@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=200&section=header&text=Hi%20there,%20I'm%20Anisha!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI-powered+full-stack+apps+%F0%9F%A4%96;Gemini+%7C+React+%7C+Node.js+%7C+MySQL+%E2%9C%A8;Solving+150%2B+DSA+problems+%26+counting+%F0%9F%94%A5;AIML+student+%40+CVR+Global+University+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI-powered+full-stack+apps+%F0%9F%A4%96;Gemini+%7C+React+%7C+Node.js+%7C+MySQL+%E2%9C%A8;Solving+200%2B+DSA+problems+%26+counting+%F0%9F%94%A5;AIML+student+%40+CVR+Global+University+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
