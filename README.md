@@ -24,7 +24,7 @@
     <td>🎓</td><td><strong>Degree</strong></td><td>B.Tech in CSE (AIML) — C.V. Raman Global University</td>
   </tr>
   <tr>
-    <td>⭐</td><td><strong>CGPA</strong></td><td>9.26 / 10.0 (3rd Semester)</td>
+    <td>⭐</td><td><strong>CGPA</strong></td><td>9.70 / 10.0 (4th Semester)</td>
   </tr>
   <tr>
     <td>📍</td><td><strong>Location</strong></td><td>Bhubaneswar, Odisha, India 🇮🇳</td>
