@@ -124,24 +124,39 @@
 
 ## 🚀 Featured Projects
 
+### 🏭 Internship Project — Tata Steel Ltd.
+
 <div align="center">
 
-### 🌟 Flagship — Built during Tata Steel Internship
-
-| 💼 Career Portal — AI-Powered Job Application Platform |
+| 💼 Career Portal — Job Application Platform |
 |:---:|
-| **Tech:** React 19 · Node.js · Express 5 · MySQL · Firebase · Google Gemini 2.0 · Tailwind CSS · JWT |
-| Full-stack job portal built during internship at Tata Steel — 5-step application form, 11-table MySQL schema, dual-token auth (Firebase + JWT), and a complete suite of **6 AI career tools**: Resume Generator · ATS Score Checker · Job Matching · Cover Letter Generator · Skill Gap Analyzer · Mock Interview Generator |
+| **Tech:** React 19 · Node.js · Express 5 · MySQL · Firebase · JWT · Tailwind CSS |
+| Full-stack job application portal built during internship at Tata Steel — 5-step application form, 11-table normalized MySQL schema, dual-token auth (Firebase + JWT), application status tracking, and user dashboard |
 | 🔗 [Live Demo](https://job-application-portal-alpha.vercel.app) &nbsp;·&nbsp; [Frontend](https://github.com/anisha-1811/Job-Application-Portal) &nbsp;·&nbsp; [Backend](https://github.com/anisha-1811/job-portal-backend) |
 | 📅 Apr – May 2026 |
 
 </div>
 
-<br/>
+---
+
+### 🤖 Personal Project — AI Career Tools
 
 <div align="center">
 
+| 🧠 AI-Powered Career Suite — Built on top of Career Portal |
+|:---:|
+| **Tech:** Google Gemini 2.0 Flash · React 19 · Node.js · Express 5 · MySQL · jsPDF |
+| Extended the internship project with a full suite of **6 AI career tools** — Resume Generator, ATS Score Checker (PDF upload + OCR fallback), Job Matching, Cover Letter Generator, Skill Gap Analyzer & Mock Interview Generator |
+| 🔗 [Live Demo](https://job-application-portal-alpha.vercel.app) &nbsp;·&nbsp; [Frontend](https://github.com/anisha-1811/Job-Application-Portal) &nbsp;·&nbsp; [Backend](https://github.com/anisha-1811/job-portal-backend) |
+| 📅 2026 |
+
+</div>
+
+---
+
 ### 🔬 ML / Data Science
+
+<div align="center">
 
 | 🛡️ Spam Classifier | 🏦 Loan Approval Prediction | 📊 Student Performance Dashboard |
 |:---:|:---:|:---:|
@@ -152,11 +167,11 @@
 
 </div>
 
-<br/>
-
-<div align="center">
+---
 
 ### 🛠️ Utilities
+
+<div align="center">
 
 | 🧩 DSA Tracker | 📄 PDF Merger | 🔍 Deep Packet Inspection |
 |:---:|:---:|:---:|
