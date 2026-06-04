@@ -188,10 +188,10 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anisha-1811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anisha-1811&theme=tokyonight&hide_border=true&stroke=A855F7&ring=6C63FF&fire=EC4899&currStreakLabel=A855F7&background=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anisha-1811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=anisha-1811&theme=tokyonight&hide_border=true&stroke=A855F7&ring=6C63FF&fire=EC4899&currStreakLabel=A855F7&background=0d1117&cache_seconds=1800" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisha-1811&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0d1117" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisha-1811&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&langs_count=8" />
 
 </div>
 
@@ -271,7 +271,11 @@
 <br/>
 
 <!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anisha-1811&theme=tokyo-night&hide_border=true&area=true&color=A855F7&line=6C63FF&point=EC4899" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anisha-1811&theme=tokyo-night&hide_border=true&area=true&color=A855F7&line=6C63FF&point=EC4899&custom_title=Anisha's%20Contribution%20Graph" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/A855F7/anisha-1811" alt="Anisha's GitHub Contribution Chart" width="100%" />
 
 </div>
 
