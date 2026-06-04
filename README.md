@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=200&section=header&text=Hi%20there,%20I'm%20Anisha!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=200&section=header&text=Hi%20there,%20I'm%20Anisha!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Tata%20Steel%20Intern&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI-powered+full-stack+apps+%F0%9F%A4%96;Gemini+%7C+React+%7C+Node.js+%7C+MySQL+%E2%9C%A8;Solving+200%2B+DSA+problems+%26+counting+%F0%9F%94%A5;AIML+student+%40+CVR+Global+University+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI-powered+full-stack+apps+%F0%9F%A4%96;Gemini+%7C+React+%7C+Node.js+%7C+MySQL+%E2%9C%A8;Web+Dev+Intern+%40+Tata+Steel+Ltd.+%F0%9F%8F%AD;Solved+200%2B+DSA+problems+%26+counting+%F0%9F%94%A5;AIML+student+%40+CVR+Global+University+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
@@ -21,10 +21,10 @@
 
 <table>
   <tr>
-    <td>🎓</td><td><strong>Degree</strong></td><td>B.Tech in CSE (AIML) — C.V. Raman Global University</td>
+    <td>🎓</td><td><strong>Degree</strong></td><td>B.Tech in CSE (AIML) — C.V. Raman Global University | SGPA: 9.70/10 (Sem 4)</td>
   </tr>
   <tr>
-    <td>⭐</td><td><strong>CGPA</strong></td><td>9.70 / 10.0 (4th Semester)</td>
+    <td>🏭</td><td><strong>Internship</strong></td><td>Web Development Intern — Tata Steel Ltd., Jamshedpur (Apr – May 2026)</td>
   </tr>
   <tr>
     <td>📍</td><td><strong>Location</strong></td><td>Bhubaneswar, Odisha, India 🇮🇳</td>
@@ -36,6 +36,9 @@
     <td>🔭</td><td><strong>Currently</strong></td><td>Building AI-powered web apps with Gemini + React + Node.js</td>
   </tr>
   <tr>
+    <td>🎯</td><td><strong>Goal</strong></td><td>SDE roles at product-based companies</td>
+  </tr>
+  <tr>
     <td>🎤</td><td><strong>Beyond Code</strong></td><td>Debating · Hackathons · Public Speaking</td>
   </tr>
   <tr>
@@ -44,6 +47,30 @@
 </table>
 
 > 💬 *"Thanks for stopping by! Let's build something amazing together 🚀"*
+
+---
+
+## 🏭 Industry Experience
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  🏢  TATA STEEL LTD. — Shavak Nanavati Technical Institute, Jamshedpur         ║
+║  💼  Web Development Intern | Learning & Development Department                  ║
+║  📅  April 2026 – May 2026  |  Ref: VT20261565  (ISO 9001:2015 Certified)      ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  ✅  Built a production-grade full-stack Job Application Portal managing         ║
+║      13 data categories across a normalized 11-table MySQL schema               ║
+║  ✅  Secured all API routes with JWT middleware, Helmet & tiered rate limiting   ║
+║  ✅  Implemented dual-token auth (Firebase + JWT) with useRef deduplication      ║
+║      guard, eliminating redundant backend auth calls                            ║
+║  ✅  Deployed full stack on Vercel + Render + Railway                           ║
+║  👤  Guide: Kollati Krishna Raju, Sr. Area Manager Training (IT), L&D           ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -68,22 +95,26 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 🔒 Security & DevOps
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-### 💻 Other Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
@@ -95,14 +126,14 @@
 
 <div align="center">
 
-### 🌟 Flagship
+### 🌟 Flagship — Built during Tata Steel Internship
 
-| 💼 Career Portal — AI Job Application Platform |
+| 💼 Career Portal — AI-Powered Job Application Platform |
 |:---:|
-| **Tech:** React 19 · Node.js · Express 5 · MySQL · Firebase · Google Gemini 2.0 · Tailwind CSS |
-| Full-stack job portal with a **5-step application form**, application status tracking, and a complete suite of **AI-powered career tools** — Resume Generator, ATS Score Checker, Job Matching, Cover Letter Generator, Skill Gap Analyzer & Mock Interview Generator |
-| 🔗 [Live Demo](https://job-application-portal-alpha.vercel.app) &nbsp;·&nbsp; [Frontend Repo](https://github.com/anisha-1811/Job-Application-Portal) &nbsp;·&nbsp; [Backend Repo](https://github.com/anisha-1811/job-portal-backend) |
-| 📅 2025 – 2026 |
+| **Tech:** React 19 · Node.js · Express 5 · MySQL · Firebase · Google Gemini 2.0 · Tailwind CSS · JWT |
+| Full-stack job portal built during internship at Tata Steel — 5-step application form, 11-table MySQL schema, dual-token auth (Firebase + JWT), and a complete suite of **6 AI career tools**: Resume Generator · ATS Score Checker · Job Matching · Cover Letter Generator · Skill Gap Analyzer · Mock Interview Generator |
+| 🔗 [Live Demo](https://job-application-portal-alpha.vercel.app) &nbsp;·&nbsp; [Frontend](https://github.com/anisha-1811/Job-Application-Portal) &nbsp;·&nbsp; [Backend](https://github.com/anisha-1811/job-portal-backend) |
+| 📅 Apr – May 2026 |
 
 </div>
 
@@ -112,12 +143,12 @@
 
 ### 🔬 ML / Data Science
 
-| 🏦 Loan Approval Prediction | 📊 Student Performance Dashboard |
-|:---:|:---:|
-| **Tech:** Python · Scikit-learn · FastAPI · JS | **Tech:** Python · Streamlit · FastAPI · EDA |
-| Classification model with **87% accuracy** using Random Forest & Logistic Regression | Interactive dashboard to visualize student academic trends with deep EDA insights |
-| [Repo](https://github.com/anisha-1811/Loan_Approval_Prediction) | [Repo](https://github.com/anisha-1811/STUDENT-PERFORMANCE-DASHBOARD) |
-| 📅 Feb 2026 | 📅 Jan – Feb 2026 |
+| 🛡️ Spam Classifier | 🏦 Loan Approval Prediction | 📊 Student Performance Dashboard |
+|:---:|:---:|:---:|
+| **Tech:** Python · Flask · Scikit-learn · Naive Bayes | **Tech:** Python · Scikit-learn · Random Forest · FastAPI | **Tech:** Python · Streamlit · FastAPI · EDA |
+| Multinomial Naive Bayes classifier on UCI SMS Spam dataset with **∼98% accuracy**; deployed on Render | ML pipeline with **87% accuracy** using Random Forest & Logistic Regression with feature engineering | Interactive dashboard to visualize student academic trends with deep EDA insights |
+| [Repo](https://github.com/anisha-1811) | [Repo](https://github.com/anisha-1811/Loan_Approval_Prediction) | [Repo](https://github.com/anisha-1811/STUDENT-PERFORMANCE-DASHBOARD) |
+| 📅 2026 | 📅 Feb 2026 | 📅 Jan – Feb 2026 |
 
 </div>
 
@@ -130,7 +161,7 @@
 | 🧩 DSA Tracker | 📄 PDF Merger | 🔍 Deep Packet Inspection |
 |:---:|:---:|:---:|
 | **Tech:** HTML5 · CSS3 · JavaScript | **Tech:** HTML5 · JavaScript | **Tech:** Python |
-| Responsive web app to log and track daily DSA practice progress | Browser-based tool to merge multiple PDF files client-side | Network traffic analysis tool using DPI techniques |
+| Responsive web app to log and track daily DSA practice progress | Browser-based tool to merge multiple PDF files client-side | Network traffic analysis using DPI techniques |
 | [Repo](https://github.com/anisha-1811/DSA-TRACKER) | [Repo](https://github.com/anisha-1811/PDF-MERGER) | [Repo](https://github.com/anisha-1811/DEEP-PACKET-INSPECTION) |
 | 📅 Dec 2025 – Jan 2026 | 📅 2025 | 📅 2025 |
 
@@ -166,10 +197,22 @@
 
 | 🔥 Platform | 📊 Stats |
 |:---:|:---:|
-| **LeetCode** | 150+ Problems Solved |
+| **LeetCode** | 200+ Problems Solved |
 | **HackerRank** | Active Problem Solver |
 | **Flipkart GRID 3.0** | Algorithmic Challenge Participant |
 | **Smart India Hackathon 2025** | Hardware Edition — Locominds |
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏢 Issuer | 📅 Date |
+|:---:|:---:|:---:|
+| **Vocational Training — Web Development** | Tata Steel Ltd. (ISO 9001:2015), SNTI, Jamshedpur | May 2026 |
 
 </div>
 
@@ -181,7 +224,7 @@
 
 ```
 🎯 GDG CVRGU — Competitive Coding Co-Lead
-   → Fostering collaborative coding culture on campus
+   → Organised coding sessions and mentored junior peers
 
 💡 Smart India Hackathon 2025 — Hardware Edition (Locominds)
    → National-level innovation challenge
