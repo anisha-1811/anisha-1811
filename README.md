@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=200&section=header&text=Hi%20there,%20I'm%20Anisha!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Tata%20Steel%20Intern&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI-powered+full-stack+apps+%F0%9F%A4%96;Gemini+%7C+React+%7C+Node.js+%7C+MySQL+%E2%9C%A8;Web+Dev+Intern+%40+Tata+Steel+Ltd.+%F0%9F%8F%AD;Solved+200%2B+DSA+problems+%26+counting+%F0%9F%94%A5;AIML+student+%40+CVR+Global+University+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI-powered+full-stack+apps+%F0%9F%A4%96;Gemini+%7C+React+%7C+Node.js+%7C+MySQL+%E2%9C%A8;Web+Dev+Intern+%40+Tata+Steel+Ltd.+%F0%9F%8F%AD;Solved+250%2B+DSA+problems+%26+counting+%F0%9F%94%A5;AIML+student+%40+CVR+Global+University+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
@@ -50,6 +50,38 @@
 
 ---
 
+## 🌟 Flagship Project — Rentora AI
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  🏠  RENTORA AI — Conversational Rent Prediction for Indian Metro Cities        ║
+║  🔗  Live: rentora-ai-seven.vercel.app                                          ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  📊  117,000+ real listings across 8 metro cities → Random Forest model          ║
+║      achieving R² = 0.848, MAE ₹12,330                                          ║
+║  🗜️  Re-tuned & shrunk the trained model 1.2GB → 140MB for deployment —          ║
+║      and improved accuracy over the original in the process                      ║
+║  💬  Gemini-powered chat that extracts structured fields from free text and     ║
+║      holds conversation memory across turns — no re-asking what's known         ║
+║  🗺️  Live Leaflet map + Supabase-logged predictions and 1–5★ user feedback       ║
+║  ☁️  Fully deployed full-stack app — FastAPI (Render) · React (Vercel) ·         ║
+║      Firebase Auth · Supabase Postgres · Hugging Face model hosting             ║
+║  💰  Entire stack runs on free tiers — ₹0/month infrastructure cost              ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+**Tech:** Python · Scikit-learn · FastAPI · Google Gemini API · React (Vite) · Leaflet.js · Firebase Auth · Supabase (PostgreSQL)
+
+🔗 [Live Demo](https://rentora-ai-seven.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/anisha-1811/Rentora-AI)
+
+📅 2026
+
+</div>
+
+---
+
 ## 🏭 Industry Experience
 
 <div align="center">
@@ -87,6 +119,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -110,6 +143,8 @@
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -122,7 +157,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Other Projects
 
 ### 🏭 Internship Project — Tata Steel Ltd.
 
@@ -161,7 +196,7 @@
 | 🛡️ Spam Classifier | 🏦 Loan Approval Prediction | 📊 Student Performance Dashboard |
 |:---:|:---:|:---:|
 | **Tech:** Python · Flask · Scikit-learn · Naive Bayes | **Tech:** Python · Scikit-learn · Random Forest · FastAPI | **Tech:** Python · Streamlit · FastAPI · EDA |
-| Multinomial Naive Bayes classifier on UCI SMS Spam dataset with **∼98% accuracy**; deployed on Render | ML pipeline with **87% accuracy** using Random Forest & Logistic Regression with feature engineering | Interactive dashboard to visualize student academic trends with deep EDA insights |
+| Multinomial Naive Bayes classifier on UCI SMS Spam dataset with **∼98% accuracy**; deployed on Render | Compared 5 classification algorithms with 5-fold cross-validation; Random Forest selected at **∼92% accuracy** | Interactive dashboard to visualize student academic trends with deep EDA insights |
 | [Repo](https://github.com/anisha-1811) | [Repo](https://github.com/anisha-1811/Loan_Approval_Prediction) | [Repo](https://github.com/anisha-1811/STUDENT-PERFORMANCE-DASHBOARD) |
 | 📅 2026 | 📅 Feb 2026 | 📅 Jan – Feb 2026 |
 
@@ -212,9 +247,9 @@
 
 | 🔥 Platform | 📊 Stats |
 |:---:|:---:|
-| **LeetCode** | 200+ Problems Solved |
+| **LeetCode** | 250+ Problems Solved |
 | **HackerRank** | Active Problem Solver |
-| **Flipkart GRID 3.0** | Algorithmic Challenge Participant |
+| **Flipkart GRID 3.0** | Reached Round 2 |
 | **Smart India Hackathon 2025** | Hardware Edition — Locominds |
 
 </div>
